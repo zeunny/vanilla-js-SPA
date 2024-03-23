@@ -1,0 +1,13 @@
+{
+  "name": "vanillaJS-SPA",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.19.1",
+    "node": "21.7.1"
+  },
+  "author": "zeunny <ee2e@naver.com>",
+  "repository": "https://github.com/zeunny/vanillaJS-SPA.git",
+  "bugs": "https://github.com/zeunny/vanillaJS-SPA/issues",
+  "license": "ISC"
+}
